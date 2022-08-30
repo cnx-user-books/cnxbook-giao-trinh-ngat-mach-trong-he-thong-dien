@@ -32,7 +32,7 @@
               <m:mrow>
                 <m:mtable>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mstyle fontsize="12pt">
                         <m:mrow>
                           <m:mrow>
@@ -107,10 +107,10 @@
                         </m:mrow>
                       </m:mstyle>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mrow>
                         <m:msub>
                           <m:mover>
@@ -181,10 +181,10 @@
                         </m:mrow>
                       </m:mrow>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mrow>
                         <m:msub>
                           <m:mover>
@@ -255,7 +255,7 @@
                         </m:mrow>
                       </m:mrow>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                 </m:mtable>
                 <m:mrow/>
@@ -809,7 +809,7 @@
               <m:mrow>
                 <m:mtable>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mstyle fontsize="12pt">
                         <m:mrow>
                           <m:mrow>
@@ -860,10 +860,10 @@
                         </m:mrow>
                       </m:mstyle>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mover>
                         <m:mrow>
                           <m:mrow>
@@ -917,10 +917,10 @@
                         </m:mstyle>
                       </m:mover>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mover>
                         <m:mrow>
                           <m:mrow>
@@ -974,7 +974,7 @@
                         </m:mstyle>
                       </m:mover>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                 </m:mtable>
                 <m:mrow/>
@@ -997,7 +997,7 @@
               <m:mrow>
                 <m:mtable>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mstyle fontsize="12pt">
                         <m:mrow>
                           <m:mrow>
@@ -1066,10 +1066,10 @@
                         </m:mrow>
                       </m:mstyle>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mover>
                         <m:mrow>
                           <m:mrow>
@@ -1127,10 +1127,10 @@
                         </m:mstyle>
                       </m:mover>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mover>
                         <m:mrow>
                           <m:mrow>
@@ -1188,7 +1188,7 @@
                         </m:mstyle>
                       </m:mover>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                 </m:mtable>
                 <m:mrow/>
@@ -1441,7 +1441,7 @@
                       <m:mrow>
                         <m:mtable>
                           <m:mtr>
-                            <m:mrow>
+                            <m:mtd>
                               <m:mstyle fontsize="12pt">
                                 <m:mrow>
                                   <m:mrow>
@@ -1524,10 +1524,10 @@
                                 </m:mrow>
                               </m:mstyle>
                               <m:mrow/>
-                            </m:mrow>
+                            </m:mtd>
                           </m:mtr>
                           <m:mtr>
-                            <m:mrow>
+                            <m:mtd>
                               <m:mover>
                                 <m:mrow>
                                   <m:mrow>
@@ -1596,10 +1596,10 @@
                                 <m:mrow/>
                               </m:mover>
                               <m:mrow/>
-                            </m:mrow>
+                            </m:mtd>
                           </m:mtr>
                           <m:mtr>
-                            <m:mrow>
+                            <m:mtd>
                               <m:mover>
                                 <m:mrow>
                                   <m:mrow>
@@ -1654,7 +1654,7 @@
                                 <m:mrow/>
                               </m:mover>
                               <m:mrow/>
-                            </m:mrow>
+                            </m:mtd>
                           </m:mtr>
                         </m:mtable>
                         <m:mrow/>
@@ -1682,7 +1682,7 @@
             <tbody>
               <row>
                 <entry>Xét ngắn mạch giữa 2 pha B, C (hình 7.8). Điều kiện ngắn mạch là:
-<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NB</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mtext/><m:mtext>=-</m:mtext><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NC</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NB</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NC</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
+<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NB</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mtext/><m:mtext>=-</m:mtext><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NC</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NB</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NC</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
  size 12{ {I}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"} } "   "=0"                  " \( 7 "." 4 \) }  {} # 
  {I}  cSup { size 8{ "." } }  rSub { size 8{ ital "NB"} } "   ""=-" {I}  cSup { size 8{ "." } }  rSub { size 8{ ital "NC"} } "           " \( 7 "." 5 \)  {} # 
  {U}  cSup { size 8{ "." } }  rSub { size 8{ ital "NB"} }  = {U}  cSup { size 8{ "." } }  rSub { size 8{ ital "NC"} } "            " \( 7 "." 6 \)   {} 
@@ -2642,7 +2642,7 @@
             <tbody>
               <row>
                 <entry>Xét ngắn mạch 1 pha ở pha A (hình 7.10). Điều kiện ngắn mạch là:
-<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NB</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>10</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NC</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>11</m:mtext><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>12</m:mtext><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
+<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NB</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>10</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NC</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>11</m:mtext><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>12</m:mtext><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
  size 12{ {I}  cSup { size 8{ "." } }  rSub { size 8{ ital "NB"} } "   "=0"                 " \( 7 "." "10" \) }  {} # 
  {I}  cSup { size 8{ "." } }  rSub { size 8{ ital "NC"} } "   "=0"                 " \( 7 "." "11" \)  {} # 
  {U}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"} }  =0"                 " \( 7 "." "12" \)  {} 
@@ -3215,7 +3215,7 @@
                 <m:mrow>
                   <m:mtable>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mstyle fontsize="12pt">
                           <m:mrow>
                             <m:mrow>
@@ -3390,10 +3390,10 @@
                           </m:mrow>
                         </m:mstyle>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mtext/>
                         <m:msub>
                           <m:mover>
@@ -3508,7 +3508,7 @@
                         </m:mrow>
                         <m:mo stretchy="false">)</m:mo>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                   </m:mtable>
                   <m:mrow/>
@@ -3609,7 +3609,7 @@
                 <m:mrow>
                   <m:mtable>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mstyle fontsize="12pt">
                           <m:mrow>
                             <m:mrow>
@@ -3789,10 +3789,10 @@
                           </m:mrow>
                         </m:mstyle>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mtext/>
                           <m:mo stretchy="false">=</m:mo>
@@ -3910,7 +3910,7 @@
                         </m:mfrac>
                         <m:mo stretchy="false">)</m:mo>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                   </m:mtable>
                   <m:mrow/>
@@ -3930,7 +3930,7 @@
                 <m:mrow>
                   <m:mtable>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mstyle fontsize="12pt">
                           <m:mrow>
                             <m:mrow>
@@ -4103,10 +4103,10 @@
                           </m:mrow>
                         </m:mstyle>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mtext/>
                         <m:mtext>=-</m:mtext>
                         <m:msqrt>
@@ -4231,7 +4231,7 @@
                         </m:mfrac>
                         <m:mo stretchy="false">)</m:mo>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                   </m:mtable>
                   <m:mrow/>
@@ -4258,7 +4258,7 @@
             <tbody>
               <row>
                 <entry>Xét ngắn mạch 2 pha B, C chạm đất (hình 7.12). Điều kiện ngắn mạch là:
-<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>14</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NB</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>15</m:mtext><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NC</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>16</m:mtext><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
+<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>14</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NB</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>15</m:mtext><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NC</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>16</m:mtext><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
  size 12{ {I}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"} } "   "=0"                 " \( 7 "." "14" \) }  {} # 
  {U}  cSup { size 8{ "." } }  rSub { size 8{ ital "NB"} }  =0"                 " \( 7 "." "15" \)  {} # 
  {U}  cSup { size 8{ "." } }  rSub { size 8{ ital "NC"} }  =0"                 " \( 7 "." "16" \)  {} 
@@ -5155,7 +5155,7 @@
                         <m:mrow>
                           <m:mtable>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mstyle fontsize="12pt">
                                   <m:mrow>
                                     <m:mrow>
@@ -5227,10 +5227,10 @@
                                   </m:mrow>
                                 </m:mstyle>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:msub>
                                   <m:mover>
                                     <m:mi>I</m:mi>
@@ -5298,7 +5298,7 @@
                                 </m:mrow>
                                 <m:mtext/>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                           </m:mtable>
                           <m:mrow/>
@@ -5318,7 +5318,7 @@
                         <m:mrow>
                           <m:mtable>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mstyle fontsize="12pt">
                                   <m:mrow>
                                     <m:mrow>
@@ -5385,10 +5385,10 @@
                                   </m:mrow>
                                 </m:mstyle>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mrow>
                                   <m:msub>
                                     <m:mover>
@@ -5457,7 +5457,7 @@
                                   <m:mn>0</m:mn>
                                 </m:mrow>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                           </m:mtable>
                           <m:mrow/>
@@ -5480,7 +5480,7 @@
                         <m:mrow>
                           <m:mtable>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mstyle fontsize="12pt">
                                   <m:mrow>
                                     <m:mrow>
@@ -5563,10 +5563,10 @@
                                   </m:mrow>
                                 </m:mstyle>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mrow>
                                   <m:mrow>
                                     <m:msub>
@@ -5633,7 +5633,7 @@
                                   </m:msub>
                                 </m:mrow>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                           </m:mtable>
                           <m:mrow/>
@@ -5653,7 +5653,7 @@
                         <m:mrow>
                           <m:mtable>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mstyle fontsize="12pt">
                                   <m:mrow>
                                     <m:mrow>
@@ -5730,10 +5730,10 @@
                                   </m:mrow>
                                 </m:mstyle>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mrow>
                                   <m:mrow>
                                     <m:mrow>
@@ -5804,7 +5804,7 @@
                                   <m:mn>0</m:mn>
                                 </m:mrow>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                           </m:mtable>
                           <m:mrow/>
@@ -5827,7 +5827,7 @@
                         <m:mrow>
                           <m:mtable>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mstyle fontsize="12pt">
                                   <m:mrow>
                                     <m:mrow>
@@ -5930,10 +5930,10 @@
                                   </m:mrow>
                                 </m:mstyle>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mrow>
                                   <m:mrow>
                                     <m:mrow>
@@ -6004,7 +6004,7 @@
                                   <m:mn>0</m:mn>
                                 </m:mrow>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                           </m:mtable>
                           <m:mrow/>
@@ -6024,7 +6024,7 @@
                         <m:mrow>
                           <m:mtable>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mstyle fontsize="12pt">
                                   <m:mrow>
                                     <m:mrow>
@@ -6121,10 +6121,10 @@
                                   </m:mrow>
                                 </m:mstyle>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mrow>
                                   <m:mrow>
                                     <m:msub>
@@ -6191,7 +6191,7 @@
                                   </m:msub>
                                 </m:mrow>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                           </m:mtable>
                           <m:mrow/>
@@ -6221,7 +6221,7 @@
               <m:mrow>
                 <m:mtable>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mstyle fontsize="12pt">
                         <m:mrow>
                           <m:mrow>
@@ -6311,10 +6311,10 @@
                         </m:mrow>
                       </m:mstyle>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mrow>
                         <m:msubsup>
                           <m:mover>
@@ -6401,10 +6401,10 @@
                         </m:mrow>
                       </m:msubsup>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mstyle fontsize="12pt">
                         <m:mrow>
                           <m:mrow>
@@ -6470,7 +6470,7 @@
                         </m:mrow>
                       </m:mstyle>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                 </m:mtable>
                 <m:mrow/>
@@ -6681,7 +6681,7 @@
           <tbody>
             <row>
               <entry> Ngắn mạch 2 pha:
-<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mtext>=-</m:mtext><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:msub><m:mover><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">AS</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1S</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2S</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
+<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mtext>=-</m:mtext><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:msub><m:mover><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">AS</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1S</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2S</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
  size 12{ {U}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"1} } = {U}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"2} } }  {} # 
  {I}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"1} } "=-" {I}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"2} } = {  { {E}  cSup { size 8{ "." } }  rSub { size 8{AS} } }  over  {j \( X rSub { size 8{1S} } +X rSub { size 8{2S} }  \) } }  {} 
 } } {}</m:annotation></m:semantics></m:math></entry>
@@ -6693,7 +6693,7 @@
               <entry>
         ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
       Hình 7.15 Ngắn mạch 1 pha:
-<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">N0</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">N0</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mfrac><m:msub><m:mover><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">AS</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:mrow><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1S</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2S</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0S</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
+<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">N0</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">N0</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mfrac><m:msub><m:mover><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">AS</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:mrow><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1S</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2S</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0S</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
  size 12{ {U}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"1} } + {U}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"2} } + {U}  cSup { size 8{ "." } }  rSub { size 8{N0} } =0}  {} # 
  {I}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"1} } = {I}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"2} } = {I}  cSup { size 8{ "." } }  rSub { size 8{N0} }  {} # 
 "       "= {  { {E}  cSup { size 8{ "." } }  rSub { size 8{AS} } }  over  {j \( X rSub { size 8{1S} } +X rSub { size 8{2S} } +X rSub { size 8{0S} }  \) } }  {} 
@@ -6701,7 +6701,7 @@
               <entry>
         ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
       Hình 7.16 Ngắn mạch 2 pha - đất:
-<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">N0</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mtext>=-</m:mtext><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">N0</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mtext>      =</m:mtext><m:mfrac><m:msub><m:mover><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">AS</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1S</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2S</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0S</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2S</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0S</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
+<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:msub><m:mover><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">N0</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mtext>=-</m:mtext><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>NA</m:mtext></m:mrow></m:mstyle><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mover><m:mi>I</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">N0</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>      =</m:mtext><m:mfrac><m:msub><m:mover><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mstyle></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">AS</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1S</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2S</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0S</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2S</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>X</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0S</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
  size 12{ {U}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"1} } = {U}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"2} } = {U}  cSup { size 8{ "." } }  rSub { size 8{N0} } }  {} # 
  {I}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"1} } "=-" \(  {I}  cSup { size 8{ "." } }  rSub { size 8{ ital "NA"2} } + {I}  cSup { size 8{ "." } }  rSub { size 8{N0} }  \)  {} # 
 "      =" {  { {E}  cSup { size 8{ "." } }  rSub { size 8{AS} } }  over  {j \( X rSub { size 8{1S} } + {  {X rSub { size 8{2S} } X rSub { size 8{0S} } }  over  {X rSub { size 8{2S} } +X rSub { size 8{0S} } } }  \) } }  {} 
@@ -7112,7 +7112,7 @@
                 <m:mrow>
                   <m:mtable>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mstyle fontsize="12pt">
                           <m:mrow>
                             <m:mrow>
@@ -7167,10 +7167,10 @@
                           </m:mrow>
                         </m:mstyle>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:msubsup>
                             <m:mi>I</m:mi>
@@ -7225,7 +7225,7 @@
                           </m:mstyle>
                         </m:msubsup>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                   </m:mtable>
                   <m:mrow/>
@@ -7594,7 +7594,7 @@ I rSub { size 8{ ital "NH"} }  rSup { size 8{ \( n \) } } =m rSup { size 8{ \( n
               <m:mrow>
                 <m:mtable>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mstyle fontsize="12pt">
                         <m:mrow>
                           <m:mrow>
@@ -7802,10 +7802,10 @@ I rSub { size 8{ ital "NH"} }  rSup { size 8{ \( n \) } } =m rSup { size 8{ \( n
                         </m:mrow>
                       </m:mstyle>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mtext>hay:                                     </m:mtext>
                       <m:mrow>
                         <m:msub>
@@ -7905,7 +7905,7 @@ I rSub { size 8{ ital "NH"} }  rSup { size 8{ \( n \) } } =m rSup { size 8{ \( n
                         </m:mstyle>
                       </m:msup>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                 </m:mtable>
                 <m:mrow/>
@@ -7935,7 +7935,7 @@ I rSub { size 8{ ital "NH"} }  rSup { size 8{ \( n \) } } =m rSup { size 8{ \( n
               <m:mrow>
                 <m:mtable>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mstyle fontsize="12pt">
                         <m:mrow>
                           <m:mrow>
@@ -8012,10 +8012,10 @@ I rSub { size 8{ ital "NH"} }  rSup { size 8{ \( n \) } } =m rSup { size 8{ \( n
                         </m:mrow>
                       </m:mstyle>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mstyle fontsize="12pt">
                         <m:mrow>
                           <m:mrow>
@@ -8117,10 +8117,10 @@ I rSub { size 8{ ital "NH"} }  rSup { size 8{ \( n \) } } =m rSup { size 8{ \( n
                         </m:mrow>
                       </m:mstyle>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                   <m:mtr>
-                    <m:mrow>
+                    <m:mtd>
                       <m:mstyle fontsize="12pt">
                         <m:mrow>
                           <m:mrow>
@@ -8222,7 +8222,7 @@ I rSub { size 8{ ital "NH"} }  rSup { size 8{ \( n \) } } =m rSup { size 8{ \( n
                         </m:mrow>
                       </m:mstyle>
                       <m:mrow/>
-                    </m:mrow>
+                    </m:mtd>
                   </m:mtr>
                 </m:mtable>
                 <m:mrow/>
